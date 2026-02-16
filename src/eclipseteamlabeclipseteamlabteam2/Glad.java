@@ -1,12 +1,13 @@
 package eclipseteamlabeclipseteamlabteam2;
 
-public class Driver {
+public class Glad {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Our team is getting started");
-		Glad glad = new Glad();
-		glad.glad();
+
+	}
+	public static void glad() {
+		System.out.println("We are glad");
 	}
 
 }
