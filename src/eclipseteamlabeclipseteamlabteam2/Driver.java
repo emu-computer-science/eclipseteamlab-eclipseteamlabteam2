@@ -6,7 +6,9 @@ public class Driver {
 		// TODO Auto-generated method stub
 		System.out.println("Our team is getting started");
 		Glad glad = new Glad();
+		Sad sad = new Sad();
 		glad.glad();
+		sad.sad();
 	}
 
 }
