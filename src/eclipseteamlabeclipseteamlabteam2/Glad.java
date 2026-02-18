@@ -10,7 +10,7 @@ public class Glad {
 		System.out.println("We are glad");
 	}
 	public static void branch() {
-		System.out.println("we have a new branch we're extra happy");
+		System.out.println("we have a new branch we're extra happy"); 
 	}
 
 }
