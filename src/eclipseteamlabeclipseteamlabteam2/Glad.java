@@ -9,5 +9,8 @@ public class Glad {
 	public static void glad() {
 		System.out.println("We are glad");
 	}
+	public static void branch() {
+		System.out.println("we have a new branch we're extra happy");
+	}
 
 }
