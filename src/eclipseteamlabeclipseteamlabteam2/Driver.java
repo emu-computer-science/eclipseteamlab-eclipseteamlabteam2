@@ -12,6 +12,7 @@ public class Driver {
 		sad.sad();
 		hungry.hungry();
 		Hungry.hungry2();
+		sad.extraSad();
 	}
 
 }
